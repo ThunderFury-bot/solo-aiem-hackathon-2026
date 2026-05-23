@@ -5,6 +5,19 @@ An AI-powered academic operating system for students that automates friction fro
 Built for the **AIEM × SOLO Open Innovation Hackathon 2026** under the **Education + AI Automation** domain.
 
 ---
+# 👥  TEAM
+Team Name: Error 503
+Members:
+
+Areeb Shaikh
+Sarthak Kerkar
+Vithal Yedage
+
+# Selected Domain
+
+Education + AI Automation
+
+---
 
 ## 🌌 Problem Statement
 Students face an overwhelming amount of fragmented academic information. They jump between PDF viewers for reading, separate calendar apps for tracking homework deadlines, standalone timer apps for focus, and flashcard tools for test prep. This modular scattering leads to:
